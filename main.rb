@@ -5,7 +5,7 @@ require 'net/ping'
 port = 1738
 any_bar = AnyBar::Client.new(port)
 any_bar.color = 'red'
-# any_bar.color # => 'red'
+# any_bar.color => 'red'
 
 @tcp = Net::Ping::TCP.new('google.com','http') # true
 
