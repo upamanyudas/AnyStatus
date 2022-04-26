@@ -18,14 +18,12 @@ brew cask install anybar
 
 2. Clone this repo to the Applications folder
 ```
-cd /Applications/
-sudo git clone https://github.com/upamanyudas/AnyStatus.git
+cd /Applications/; sudo git clone https://github.com/upamanyudas/AnyStatus.git
 ```
 
 3. Install dependencies
 ```
-cd AnyStatus
-sudo bundle install
+cd AnyStatus; sudo bundle install
 ```
 
 4. Open System Preferences → Users and Groups → Login items and add  `AnyStatus.app`.
