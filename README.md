@@ -13,7 +13,7 @@ AnyStatus simply changes the color of the dot (green or red) by checking if you'
 
 1. Install AnyBar
 ```
-brew cask install anybar
+brew install --cask anybar
 ```
 
 2. Clone this repo to the Applications folder
