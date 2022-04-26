@@ -63,8 +63,8 @@
 
 open -a AnyBar
 
-# TODO: Update the path to point to AnyMint/main.rb
-ruby /Applications/AnyMint/main.rb</string>
+# TODO: Update the path to point to AnyStatus/main.rb
+ruby /Applications/AnyStatus/main.rb</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
@@ -174,8 +174,6 @@ ruby /Applications/AnyMint/main.rb</string>
 						<string>4</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>

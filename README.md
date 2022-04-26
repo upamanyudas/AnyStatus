@@ -19,7 +19,7 @@ brew cask install anybar
 2. Clone this repo to the Applications folder
 ```
 cd /Applications/
-git clone https://github.com/upamanyudas/AnyStatus.git
+sudo git clone https://github.com/upamanyudas/AnyStatus.git
 ```
 
 3. Install dependencies
